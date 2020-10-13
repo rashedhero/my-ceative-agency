@@ -1,0 +1,22 @@
+
+.headr-container{
+    height: 800px;
+
+    position: relative;
+    background-color:orange;
+
+
+
+}
+   
+/* .headr-containerer::after{
+
+height: 800px;
+content: ' ';
+position:absulte;
+top:0;
+width:30%;
+right:0;
+background-color:red;
+
+} */
