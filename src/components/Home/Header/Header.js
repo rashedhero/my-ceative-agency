@@ -13,7 +13,7 @@ const Header = () => {
             <Navbar></Navbar>
             <HeaderMain></HeaderMain>
             <ServicesTaker></ServicesTaker>
-            <MainService></MainService>
+           
         </div>
     );
 };
